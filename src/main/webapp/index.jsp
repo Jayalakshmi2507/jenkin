@@ -10,6 +10,7 @@
 
 		<h2>Welcome To Ladders</h2>
 
+		<h2>Ladders welcomes you!</h2>
 	</body>
 
 </html>
