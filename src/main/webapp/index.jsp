@@ -16,6 +16,7 @@
 		<h2>IOPEX Jan18</h2>
 		<h2>IOPEX Monday</h2>
 		<h2>Day&Night</h2>
+		<h2>Devops</h2>
 	</body>
 
 </html>
